@@ -6,3 +6,5 @@ Levantamento da escolaridade dos candidatos as eleições de 2008, 2016 e 2020 d
 os dados utilizado para esse estudo, estão localizados no link a seguir:
 
 https://drive.google.com/drive/folders/1FFbrjn8UQEdGf5yVtPlcsDCbqGvLckAN
+
+obs: Baixar a pasta dados do drive para ter acesso ao documentos utilizados na analise.
